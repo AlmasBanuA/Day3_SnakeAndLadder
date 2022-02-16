@@ -119,7 +119,7 @@ public class SnakeLadder {
 	      System.out.println("Player2 ROLLED DICE "+ c1 +" time and got SNAKE "+ c3 +" times and got LADDER "+ c2 +" times and got NO PLAY "+c4+" times to win the game");
 			System.out.println("    PLAYER2 WON");
 			}
-	      System.out.println("-------------------");
+	      System.out.println("------------------");
 
 
 	}
